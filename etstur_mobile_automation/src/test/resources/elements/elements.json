@@ -1,0 +1,82 @@
+{
+  "etstur_logo": {
+    "type": "id",
+    "value": "com.etstur:id/iv_logo"
+  },
+  "hotel_search": {
+    "type": "id",
+    "value": "com.etstur:id/hotelSearchCard"
+  },
+  "where_to_go_text": {
+    "type": "id",
+    "value": "com.etstur:id/txt_where_would_you_go"
+  },
+  "hotel_search_textbox": {
+    "type": "id",
+    "value": "com.etstur:id/et_input"
+  },
+  "istanbul_hotels": {
+    "type": "xpath",
+    "value": "//android.widget.TextView[@resource-id='com.etstur:id/tvSuggestion' and @text='İstanbul Otelleri, İstanbul']"
+  },
+  "entry_date": {
+    "type": "id",
+    "value": "com.etstur:id/tv_left_input"
+  },
+  "calendar_title": {
+    "type": "id",
+    "value": "com.etstur:id/txt_title"
+  },
+  "day_choice": {
+    "type": "xpath",
+    "value": "(//android.widget.TextView[@resource-id='com.etstur:id/tv_day'])"
+  },
+  "apply_button": {
+    "type": "id",
+    "value": "com.etstur:id/btn_ok"
+  },
+  "person_count": {
+    "type": "id",
+    "value": "com.etstur:id/ll_person_count"
+  },
+  "person_count_page_title": {
+    "type": "xpath",
+    "value" : "//android.widget.TextView[@text='Kişiler']"
+  },
+  "decrease_person_adult": {
+    "type": "xpath",
+    "value": "(//android.widget.Button[@resource-id='com.etstur:id/btnDecrement'])[1]"
+  },
+  "adult_count_text": {
+    "type": "xpath",
+    "value": "(//android.widget.TextView[@resource-id='com.etstur:id/tvCount'])[1]"
+  },
+  "person_apply_button": {
+    "type": "id",
+    "value": "com.etstur:id/btn_search"
+  },
+  "search_hotel_button": {
+    "type": "id",
+    "value": "com.etstur:id/btnSearch"
+  },
+  "hotels_list_title": {
+    "type": "id",
+    "value": "com.etstur:id/tv_title"
+  },
+  "first_hotel_price": {
+    "type": "xpath",
+    "value": "(//android.widget.TextView[@resource-id='com.etstur:id/txt_amount'])[1]"
+  },
+  "first_hotel": {
+    "type": "xpath",
+    "value": "(//androidx.cardview.widget.CardView[@resource-id='com.etstur:id/mcv_content'])[1]"
+  },
+  "see_rooms_button": {
+    "type": "id",
+    "value": "com.etstur:id/btn_footer"
+  },
+  "hotel_detail_price": {
+    "type": "id",
+    "value": "com.etstur:id/tv_discounted_price"
+  }
+}
